@@ -1,94 +1,94 @@
 {
   "groupImages": [
     {
-      "src": "./src/images/homeImages/Rectangle 1241.png"
+      "src": "https://github.com/Bidyut-Sikder/assignment14/blob/main/src/images/homeImages/Rectangle%201241.png?raw=true"
     },
     {
-      "src": "./src/images/homeImages/Rectangle 1242.png"
+      "src": "https://github.com/Bidyut-Sikder/assignment14/blob/main/src/images/homeImages/Rectangle%201242.png?raw=true"
     },
     {
-      "src": "./src/images/homeImages/Rectangle 1243.png"
+      "src": "https://github.com/Bidyut-Sikder/assignment14/blob/main/src/images/homeImages/Rectangle%201243.png?raw=true"
     },
     {
-      "src": "./src/images/homeImages/Rectangle 1244.png"
+      "src": "https://github.com/Bidyut-Sikder/assignment14/blob/main/src/images/homeImages/Rectangle%201244.png?raw=true"
     }
   ],
   "customerImages": [
     {
-      "src": "./src/images/homeImages/logos_google.png"
+      "src": "https://github.com/Bidyut-Sikder/assignment14/blob/main/src/images/homeImages/logos_google.png?raw=true"
     },
     {
-      "src": "./src/images/homeImages/Trello-logo-blue 1.png"
+      "src": "https://github.com/Bidyut-Sikder/assignment14/blob/main/src/images/homeImages/Trello-logo-blue%201.png?raw=true"
     },
     {
-      "src": "./src/images/homeImages/logos_monday.png"
+      "src": "https://github.com/Bidyut-Sikder/assignment14/blob/main/src/images/homeImages/logos_monday.png?raw=true"
     },
     {
-      "src": "./src/images/homeImages/Notion.png"
+      "src": "https://github.com/Bidyut-Sikder/assignment14/blob/main/src/images/homeImages/Notion.png?raw=true"
     },
     {
-      "src": "./src/images/homeImages/Slack.png"
+      "src": "https://github.com/Bidyut-Sikder/assignment14/blob/main/src/images/homeImages/Slack.png?raw=true"
     }
   ],
   "workList": [
     {
       "cardTitle": "Grow Your Business ",
       "cardDescription": "  SWe help identify the best ways to improve your business",
-      "imgSrc": "./src/images/homeImages/Activity.png "
+      "imgSrc": "https://github.com/Bidyut-Sikder/assignment14/blob/main/src/images/homeImages/Activity.png?raw=true "
     },
     {
       "cardTitle": "Improve brand loyalty ",
       "cardDescription": "  SWe help identify the best ways to improve your business",
-      "imgSrc": "./src/images/homeImages/Heart.png "
+      "imgSrc": "https://github.com/Bidyut-Sikder/assignment14/blob/main/src/images/homeImages/Heart.png?raw=true "
     },
     {
       "cardTitle": "Improve Business Model",
       "cardDescription": "  SWe help identify the best ways to improve your business",
-      "imgSrc": "./src/images/homeImages/Work.png "
+      "imgSrc": "https://github.com/Bidyut-Sikder/assignment14/blob/main/src/images/homeImages/Work.png?raw=true "
     }
   ],
   "statList": [
     {
       "cardTitle": "240452 ",
       "cardDescription": "  Followers",
-      "imgSrc": "./src/images/homeImages/Group 3.png "
+      "imgSrc": "https://github.com/Bidyut-Sikder/assignment14/blob/main/src/images/homeImages/Group%203.png?raw=true "
     },
     {
       "cardTitle": "6300",
       "cardDescription": " Solved Problems",
-      "imgSrc": "./src/images/homeImages/Like.png "
+      "imgSrc": "https://github.com/Bidyut-Sikder/assignment14/blob/main/src/images/homeImages/Like.png?raw=true "
     },
     {
       "cardTitle": "25000",
       "cardDescription": "Happy Customers",
-      "imgSrc": "./src/images/homeImages/Happy 1.png "
+      "imgSrc": "https://github.com/Bidyut-Sikder/assignment14/blob/main/src/images/homeImages/Happy%201.png?raw=true "
     },
     {
       "cardTitle": "360452",
       "cardDescription": "Projects",
-      "imgSrc": "./src/images/homeImages/Scan 3.png "
+      "imgSrc": "https://github.com/Bidyut-Sikder/assignment14/blob/main/src/images/homeImages/Scan%203.png?raw=true"
     }
   ],
   "featureData": [
     {
       "cardTitle": "Redesign channel website landng page",
       "date": "App Design - June 20,2022",
-      "imgSrc": "./src/images/homeImages/Mask (1).png "
+      "imgSrc": "https://github.com/Bidyut-Sikder/assignment14/blob/main/src/images/homeImages/Mask%20(1).png?raw=true"
     },
     {
       "cardTitle": "Redesign channel website landng page",
       "date": "App Design - June 20,2022",
-      "imgSrc": "./src/images/homeImages/Mask (2).png "
+      "imgSrc": "https://github.com/Bidyut-Sikder/assignment14/blob/main/src/images/homeImages/Mask%20(2).png?raw=true "
     },
     {
       "cardTitle": "Redesign channel website landng page",
       "date": "App Design - June 20,2022",
-      "imgSrc": "./src/images/homeImages/Mask (3).png "
+      "imgSrc": "https://github.com/Bidyut-Sikder/assignment14/blob/main/src/images/homeImages/Mask%20(3).png?raw=true "
     },
     {
       "cardTitle": "Redesign channel website landng page",
       "date": "App Design - June 20,2022",
-      "imgSrc": "./src/images/homeImages/Mask (4).png "
+      "imgSrc": "https://github.com/Bidyut-Sikder/assignment14/blob/main/src/images/homeImages/Mask%20(4).png?raw=true"
     }
   ]
 }
