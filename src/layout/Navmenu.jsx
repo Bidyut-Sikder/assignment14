@@ -22,27 +22,27 @@ const Navmenu = () => {
         <div className="collaps navbar-collapse " id="btn">
           <ul className="navbar-nav ms-auto">
             <li className="nav-item">
-              <NavLink to={'/'} className="nav-link">
+              <NavLink to={'/assignment14/'} className="nav-link">
                 Home
               </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink to="/teampage" className="nav-link">
+              <NavLink to="/assignment14/teampage" className="nav-link">
                 Team
               </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink to="servicepage" className="nav-link">
+              <NavLink to="/assignment14/servicepage" className="nav-link">
                 Service
               </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink to={'/projectpage'} className="nav-link">
+              <NavLink to={'/assignment14/projectpage'} className="nav-link">
                 Projects
               </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink to="/testimonialpage" className="nav-link">
+              <NavLink to="/assignment14/testimonialpage" className="nav-link">
                 Testimonials
               </NavLink>
             </li>
