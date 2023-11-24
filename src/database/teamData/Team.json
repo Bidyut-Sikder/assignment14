@@ -1,15 +1,15 @@
 {
   "data": [
     {
-      "teamImg": "./src/images/teamImages/Home Page.jpg ",
+      "teamImg": "https://github.com/Bidyut-Sikder/assignment14/blob/main/src/images/teamImages/Home%20Page.jpg?raw=true",
       "author": "Devon Lane "
     },
     {
-      "teamImg": "./src/images/teamImages/Rectangle 2093.png ",
+      "teamImg": "https://github.com/Bidyut-Sikder/assignment14/blob/main/src/images/teamImages/Rectangle%202093%20(1).png?raw=true ",
       "author": "Danny Bailey"
     },
     {
-      "teamImg": "./src/images/teamImages/Rectangle 2093 (1).png ",
+      "teamImg": "https://github.com/Bidyut-Sikder/assignment14/blob/main/src/images/teamImages/Rectangle%202093.png?raw=true",
       "author": "Alex Lov "
     }
   ]
